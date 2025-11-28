@@ -93,6 +93,7 @@ You can include an ER diagram image in your repo like:
 
 ```markdown
 ![ER Diagram](assets/er_diagram.png)
+```
 
 🛠 Tech Stack
 
