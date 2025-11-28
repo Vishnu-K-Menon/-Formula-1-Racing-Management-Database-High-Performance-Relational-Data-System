@@ -108,6 +108,7 @@ Tools: pgAdmin, psql
 📂 Project Structure
 
 Suggested repository layout:
+```text
 
 formula1-racing-db/
 ├── sql/
@@ -136,7 +137,7 @@ formula1-racing-db/
 ├── .gitignore
 ├── LICENSE                        # MIT License
 └── README.md
-
+```
 ⚡ Indexing & Optimization
 
 Using EXPLAIN ANALYZE, we:
