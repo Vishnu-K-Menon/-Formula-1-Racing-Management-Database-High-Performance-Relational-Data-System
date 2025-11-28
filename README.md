@@ -160,5 +160,5 @@ You can replay these optimizations using:
 
 📜 License
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
+This project is licensed under the **MIT License**.  
+See the full license here: **[LICENSE](LICENSE)**.
