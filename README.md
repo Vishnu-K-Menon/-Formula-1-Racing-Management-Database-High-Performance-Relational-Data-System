@@ -91,9 +91,10 @@ The core schema consists of 10 main tables:
 
 
 
-```markdown
-![ER Diagram](./assets/er_diagram.png)
-```
+
+<p align="center">
+  <img src="assets/er_diagram.png" alt="Formula 1 ER diagram"/>
+</p>
 
 🛠 Tech Stack
 
