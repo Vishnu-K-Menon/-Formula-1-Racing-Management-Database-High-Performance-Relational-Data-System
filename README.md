@@ -112,11 +112,8 @@ Suggested repository layout:
 
 formula1-racing-db/
 ├── sql/
-│   ├── create_tables.sql          # Schema (tables, keys, constraints)
-│   ├── insert_data.sql            # Optional: bulk inserts / COPY templates
-│   ├── queries.sql                # Task 5 queries & analytics
-│   ├── triggers_transactions.sql  # Task 6: triggers, procedures, transactions
-│   └── indexing.sql               # Task 7: index creation + EXPLAIN ANALYZE
+│   ├── create.sql        
+
 ├── data/
 │   ├── seasons.csv
 │   ├── drivers.csv
@@ -129,7 +126,7 @@ formula1-racing-db/
 │   ├── penalties.csv
 │   └── teamstandings.csv
 ├── generator/
-│   └── generate_fake_data.py      # Faker-based data generator
+│   └── formula1_data_generation.py      # Faker-based data generator
 ├── assets/
 │   └── er_diagram.png             # (Optional) ER diagram image
 ├── report.pdf                     # Final project report
