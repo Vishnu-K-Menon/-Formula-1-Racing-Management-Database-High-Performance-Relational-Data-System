@@ -89,10 +89,10 @@ The core schema consists of 10 main tables:
 | `Penalties`       | Penalties assigned to drivers in races                |
 | `TeamStandings`   | Season-wise team total points & rank                  |
 
-You can include an ER diagram image in your repo like:
+
 
 ```markdown
-![ER Diagram](assets/er_diagram.png)
+![ER Diagram](./assets/er_diagram.png)
 ```
 
 🛠 Tech Stack
